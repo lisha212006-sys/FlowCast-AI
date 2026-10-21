@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 FlowCast: Modular Traffic Prediction Pipeline
 
 FlowCast is an end-to-end Machine Learning and Deep Learning pipeline for real-time traffic volume forecasting. It bridges classical ensemble algorithms (XGBoost, Random Forest, Ridge, Linear Regression, SVR) with sequence-based deep learning architectures (LSTM, GRU) inside a dynamic Streamlit web dashboard.
@@ -63,3 +64,6 @@ streamlit run dashboard/app.py
 Classical Champion: XGBoost / Random Forest (Low RMSE, high non-linear sensitivity).
 
 Deep Sequence Model: PyTorch LSTM (Captures temporal historical lag dynamics).
+=======
+# FlowCast-AI
+>>>>>>> 92e2dce133705f585add1bd8e353c290fd8d619f
