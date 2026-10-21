@@ -1,0 +1,4 @@
+Model,RMSE,MAE,R2
+XGBoost,42.15,31.02,0.88
+Random Forest,44.3,32.5,0.85
+LSTM,39.8,29.4,0.91
